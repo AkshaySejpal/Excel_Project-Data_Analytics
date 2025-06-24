@@ -4,7 +4,7 @@ This repository includes Excel-based dashboards and analysis focused on job role
 
 ## 📁 Files Included
 
-- **[1_Salary_Dashboard.xlsx](./1_Salary_Dashboard.xlsx)**  
+- **[1_Salary_Dashboard.xlsx](./Project_1-Dashboard)**  
   Interactive dashboard with slicers, filters, and visuals:
   - Salary by Role & Country
   - Remote vs On-site Pay Trends
